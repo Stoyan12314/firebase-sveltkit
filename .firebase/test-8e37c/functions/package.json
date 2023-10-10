@@ -1,0 +1,18 @@
+{
+  "name": "my-app",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "firebase": "^9.9.0",
+    "firebase-admin": "^11.10.1",
+    "firebase-frameworks": "^0.10.5",
+    "run": "^1.4.0",
+    "@sveltejs/kit": "^1.20.4",
+    "firebase-functions": "^4.3.0"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "18"
+  }
+}
